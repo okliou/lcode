@@ -17,6 +17,7 @@
     <SUITE FILE_PATH="coverage/py_leetcode$seven.coverage" NAME="seven Coverage Results" MODIFIED="1536918575294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
     <SUITE FILE_PATH="coverage/py_leetcode$three.coverage" NAME="three Coverage Results" MODIFIED="1536906855531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
     <SUITE FILE_PATH="coverage/py_leetcode$reverse_integer.coverage" NAME="reverse-integer Coverage Results" MODIFIED="1536289053989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_leetcode$Remove_Nth_Node_From_End_of_List.coverage" NAME="Remove Nth Node From End of List Coverage Results" MODIFIED="1537521411509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linked List" />
     <SUITE FILE_PATH="coverage/py_leetcode$six.coverage" NAME="six Coverage Results" MODIFIED="1536917315718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
     <SUITE FILE_PATH="coverage/py_leetcode$Valid_Parentheses.coverage" NAME="Valid-Parentheses Coverage Results" MODIFIED="1536314027596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_leetcode$eight.coverage" NAME="eight Coverage Results" MODIFIED="1537169970454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
@@ -31,24 +32,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="one.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/String/one.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="two.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/String/two.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="three.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/String/three.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +86,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nine.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nine.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/String/nine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+            <state relative-caret-position="365">
+              <caret line="70" column="26" lean-forward="true" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Delete Node in a Linked List (one).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Linked List/Delete Node in a Linked List (one).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Remove Nth Node From End of List (two).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Linked List/Remove Nth Node From End of List (two).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reverse Linked List (three).py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Linked List/Reverse Linked List (three).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -154,6 +164,9 @@
         <option value="$PROJECT_DIR$/String/eight.py" />
         <option value="$PROJECT_DIR$/String/seven.py" />
         <option value="$PROJECT_DIR$/String/nine.py" />
+        <option value="$PROJECT_DIR$/Linked List/Delete Node in a Linked List (one).py" />
+        <option value="$PROJECT_DIR$/Linked List/Remove Nth Node From End of List.py" />
+        <option value="$PROJECT_DIR$/Linked List/Reverse Linked List (three).py" />
       </list>
     </option>
   </component>
@@ -189,7 +202,7 @@
             <path>
               <item name="py_leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="py_leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="String" type="462c0819:PsiDirectoryNode" />
+              <item name="Linked List" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,7 +229,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nine">
+  <component name="RunManager" selected="Python.Remove Nth Node From End of List">
+    <configuration name="Remove Nth Node From End of List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py_leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linked List" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\test\py_leetcode\Linked List\Remove Nth Node From End of List (two).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="eight" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,25 +263,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/eight.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="five" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="py_leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/five.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,19 +326,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.five" />
       <item itemvalue="Python.six" />
       <item itemvalue="Python.seven" />
       <item itemvalue="Python.eight" />
       <item itemvalue="Python.nine" />
+      <item itemvalue="Python.Remove Nth Node From End of List" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Remove Nth Node From End of List" />
         <item itemvalue="Python.nine" />
         <item itemvalue="Python.eight" />
         <item itemvalue="Python.seven" />
         <item itemvalue="Python.six" />
-        <item itemvalue="Python.five" />
       </list>
     </recent_temporary>
   </component>
@@ -349,11 +362,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32849163" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32997763" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32849163" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32960895" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32885906" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11727079" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32849163" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11727079" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -407,27 +420,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/String/two.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palindrome-Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Roman to Integer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Longest-Common-Prefix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
@@ -753,8 +745,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/String/nine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+        <state relative-caret-position="365">
+          <caret line="70" column="26" lean-forward="true" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/Delete Node in a Linked List (one).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/Remove Nth Node From End of List (two).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/Reverse Linked List (three).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
         </state>
       </provider>
     </entry>
