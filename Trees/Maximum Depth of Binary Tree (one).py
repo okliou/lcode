@@ -26,9 +26,31 @@ class TreeNode:
 
 
 class Solution:
+    #   BFS(广度优先搜索算法)，用队列
     def maxDepth(self, root):
         """
         :type root: TreeNode
         :rtype: int
         """
-        pass
+        if root == None: return 0
+        depth = 0
+        q = [root]
+        while len(q) != 0:
+            depth += 1
+            for i in range(0, len(q)):
+                if q[0].right:
+                    q.append(q[0].right)
+                if q[0].left:
+                    q.append(q[0].left)
+                print(q)
+                del q[0]
+        return depth
+
+    #   递归
+    def maxDepth1(self, root):
+        """
+        :type root: TreeNode
+        :rtype: int
+        """
+        if root == None: return 0
+        return 1 + max(self.maxDepth1(root.left), self.maxDepth1(root.right))
