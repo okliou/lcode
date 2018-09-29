@@ -15,6 +15,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/py_leetcode$seven.coverage" NAME="seven Coverage Results" MODIFIED="1536918575294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
+    <SUITE FILE_PATH="coverage/py_leetcode$Maximum_Subarray__three_.coverage" NAME="Maximum Subarray (three) Coverage Results" MODIFIED="1538207074342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/py_leetcode$Merge_Sorted_Array__one_.coverage" NAME="Merge Sorted Array (one) Coverage Results" MODIFIED="1538036460730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting and Searching" />
     <SUITE FILE_PATH="coverage/py_leetcode$Validate_Binary_Search_Tree__two_.coverage" NAME="Validate Binary Search Tree (two) Coverage Results" MODIFIED="1537949881964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trees" />
     <SUITE FILE_PATH="coverage/py_leetcode$three.coverage" NAME="three Coverage Results" MODIFIED="1536906855531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
@@ -29,90 +30,58 @@
     <SUITE FILE_PATH="coverage/py_leetcode$eleven.coverage" NAME="eleven Coverage Results" MODIFIED="1536830767102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/py_leetcode$four.coverage" NAME="four Coverage Results" MODIFIED="1536909673177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
     <SUITE FILE_PATH="coverage/py_leetcode$one.coverage" NAME="one Coverage Results" MODIFIED="1536831570861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
+    <SUITE FILE_PATH="coverage/py_leetcode$Best_Time_to_Buy_and_Sell_Stock__two_.coverage" NAME="Best Time to Buy and Sell Stock (two) Coverage Results" MODIFIED="1538203341368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/py_leetcode$Palindrome_Number.coverage" NAME="Palindrome-Number Coverage Results" MODIFIED="1536289750996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_leetcode$Longest_Common_Prefix.coverage" NAME="Longest-Common-Prefix Coverage Results" MODIFIED="1536307462250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/py_leetcode$two.coverage" NAME="two Coverage Results" MODIFIED="1536833134297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
+    <SUITE FILE_PATH="coverage/py_leetcode$House_Robber__four_.coverage" NAME="House Robber (four) Coverage Results" MODIFIED="1538212210237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming" />
+    <SUITE FILE_PATH="coverage/py_leetcode$Count_Primes__two_.coverage" NAME="Count Primes (two) Coverage Results" MODIFIED="1538213378486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Math" />
+    <SUITE FILE_PATH="coverage/py_leetcode$Fizz_Buzz__one_.coverage" NAME="Fizz Buzz (one) Coverage Results" MODIFIED="1538212229372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Math" />
+    <SUITE FILE_PATH="coverage/py_leetcode$two.coverage" NAME="two Coverage Results" MODIFIED="1538202494139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/py_leetcode$Climbing_Stairs__one_.coverage" NAME="Climbing Stairs (one) Coverage Results" MODIFIED="1538129209802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Maximum Depth of Binary Tree (one).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Trees/Maximum Depth of Binary Tree (one).py">
+      <file leaf-file-name="Best Time to Buy and Sell Stock (two).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dynamic Programming/Best Time to Buy and Sell Stock (two).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1680">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="431">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Validate Binary Search Tree (two).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Trees/Validate Binary Search Tree (two).py">
+      <file leaf-file-name="Maximum Subarray (three).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dynamic Programming/Maximum Subarray (three).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1680">
-              <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+            <state relative-caret-position="281">
+              <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Symmetric Tree (three).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Trees/Symmetric Tree (three).py">
+      <file leaf-file-name="House Robber (four).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dynamic Programming/House Robber (four).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+            <state relative-caret-position="431">
+              <caret line="37" column="39" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Binary Tree Level Order Traversal (four).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Trees/Binary Tree Level Order Traversal (four).py">
+      <file leaf-file-name="Fizz Buzz (one).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Math/Fizz Buzz (one).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+            <state relative-caret-position="71">
+              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="50" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Convert Sorted Array to Binary Search Tree (five).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Trees/Convert Sorted Array to Binary Search Tree (five).py">
+      <file leaf-file-name="Count Primes (two).py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Math/Count Primes (two).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Merge Sorted Array (one).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sorting and Searching/Merge Sorted Array (one).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="First Bad Version (two).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sorting and Searching/First Bad Version (two).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Climbing Stairs (one).py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dynamic Programming/Climbing Stairs (one).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1229051315/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89520">
-              <caret line="2984" column="8" selection-start-line="2984" selection-start-column="8" selection-end-line="2984" selection-end-column="8" />
+            <state relative-caret-position="-229">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -173,6 +142,11 @@
         <option value="$PROJECT_DIR$/Sorting and Searching/Merge Sorted Array (one).py" />
         <option value="$PROJECT_DIR$/Sorting and Searching/First Bad Version (two).py" />
         <option value="$PROJECT_DIR$/Dynamic Programming/Climbing Stairs (one).py" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/Best Time to Buy and Sell Stock (two).py" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/Maximum Subarray (three).py" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/House Robber (four).py" />
+        <option value="$PROJECT_DIR$/Math/Fizz Buzz (one).py" />
+        <option value="$PROJECT_DIR$/Math/Count Primes (two).py" />
       </list>
     </option>
   </component>
@@ -185,7 +159,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="338" />
     <option name="y" value="29" />
     <option name="width" value="1400" />
@@ -197,6 +171,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,13 +182,12 @@
             <path>
               <item name="py_leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="py_leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="Math" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,8 +209,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Climbing Stairs (one)">
-    <configuration name="Climbing Stairs (one)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Count Primes (two)">
+    <configuration name="Best Time to Buy and Sell Stock (two)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,13 +223,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/Climbing Stairs (one).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/Best Time to Buy and Sell Stock (two).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Convert Sorted Array to Binary Search Tree (five)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Count Primes (two)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,18 +237,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/Convert Sorted Array to Binary Search Tree (five).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/Count Primes (two).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Merge Sorted Array (one)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Fizz Buzz (one)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,18 +256,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting and Searching" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting and Searching/Merge Sorted Array (one).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/Fizz Buzz (one).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Remove Nth Node From End of List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="House Robber (four)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,18 +275,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linked List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\test\py_leetcode\Linked List\Remove Nth Node From End of List (two).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/House Robber (four).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Validate Binary Search Tree (two)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Maximum Subarray (three)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,31 +294,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/Validate Binary Search Tree (two).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/Maximum Subarray (three).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Remove Nth Node From End of List" />
-      <item itemvalue="Python.Validate Binary Search Tree (two)" />
-      <item itemvalue="Python.Convert Sorted Array to Binary Search Tree (five)" />
-      <item itemvalue="Python.Merge Sorted Array (one)" />
-      <item itemvalue="Python.Climbing Stairs (one)" />
+      <item itemvalue="Python.Best Time to Buy and Sell Stock (two)" />
+      <item itemvalue="Python.Maximum Subarray (three)" />
+      <item itemvalue="Python.House Robber (four)" />
+      <item itemvalue="Python.Fizz Buzz (one)" />
+      <item itemvalue="Python.Count Primes (two)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Climbing Stairs (one)" />
-        <item itemvalue="Python.Merge Sorted Array (one)" />
-        <item itemvalue="Python.Convert Sorted Array to Binary Search Tree (five)" />
-        <item itemvalue="Python.Validate Binary Search Tree (two)" />
-        <item itemvalue="Python.Remove Nth Node From End of List" />
+        <item itemvalue="Python.Count Primes (two)" />
+        <item itemvalue="Python.Fizz Buzz (one)" />
+        <item itemvalue="Python.House Robber (four)" />
+        <item itemvalue="Python.Maximum Subarray (three)" />
+        <item itemvalue="Python.Best Time to Buy and Sell Stock (two)" />
       </list>
     </recent_temporary>
   </component>
@@ -362,23 +336,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32849163" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32960895" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32849163" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32849163" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12153518" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12260128" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -426,41 +400,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Valid-Parentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Merge-Two-Sorted-Lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/four.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="40" column="42" lean-forward="true" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/five.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palindrome-Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Roman to Integer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -493,13 +432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/two.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -721,13 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Trees/Maximum Depth of Binary Tree (one).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Trees/Symmetric Tree (three).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
@@ -738,7 +663,7 @@
     <entry file="file://$PROJECT_DIR$/Trees/Binary Tree Level Order Traversal (four).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
-          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -772,8 +697,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dynamic Programming/Climbing Stairs (one).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="12" />
+        <state relative-caret-position="491">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/Maximum Depth of Binary Tree (one).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Best Time to Buy and Sell Stock (two).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Maximum Subarray (three).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/House Robber (four).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math/Fizz Buzz (one).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="50" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math/Count Primes (two).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
