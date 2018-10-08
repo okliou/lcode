@@ -12,3 +12,26 @@ class Soltion(object):
     C 可以放在 D (500) 和 M (1000) 的左边，来表示 400 和 900。
     给定一个罗马数字，将其转换成整数。输入确保在 1 到 3999 的范围内
     """
+
+    def romanToInt(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        if len(s) <= 0:
+            return 0
+        roman_dict = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
+        rev_s = s[::-1]
+        prev_roman = val = roman_dict[rev_s[0]]
+        for i in range(1, len(rev_s)):
+            roman_to_int = roman_dict[rev_s[i]]
+            if roman_to_int < prev_roman:
+                val -= roman_to_int
+            else:
+                val += roman_to_int
+            prev_roman = roman_to_int
+        return val
+
+
+if __name__ == '__main__':
+    print(Soltion().romanToInt("IV"))
